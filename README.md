@@ -276,7 +276,7 @@
  - [Fibonacci Number](https://github.com/sometastycake/leetcode/blob/master/recursion/easy/fibonacci-number.py)
 
 
-## Linked_List
+## Linked List
 
 ### Easy
 
