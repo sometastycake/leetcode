@@ -11,7 +11,8 @@
  - [Symmetric Tree](https://github.com/sometastycake/leetcode/blob/master/tree/easy/symmetric-tree.py)
  - [Maximum Depth Of Binary Tree](https://github.com/sometastycake/leetcode/blob/master/tree/easy/maximum-depth-of-binary-tree.py)
  - [Range Sum Of Bst](https://github.com/sometastycake/leetcode/blob/master/tree/easy/range-sum-of-bst.py)
- - [Binary Tree Inorder Traversal](https://github.com/sometastycake/leetcode/blob/master/tree/easy/binary-tree-inorder-traversal.py)
+ - [Binary Tree Inorder Traversal (Iterative)](https://github.com/sometastycake/leetcode/blob/master/tree/easy/binary-tree-inorder-traversal-iterative.py)
+ - [Binary Tree Inorder Traversal (Recursive)](https://github.com/sometastycake/leetcode/blob/master/tree/easy/binary-tree-inorder-traversal-recursive.py)
  - [Minimum Depth Of Binary Tree](https://github.com/sometastycake/leetcode/blob/master/tree/easy/minimum-depth-of-binary-tree.py)
  - [Root Equals Sum Of Children](https://github.com/sometastycake/leetcode/blob/master/tree/easy/root-equals-sum-of-children.py)
  - [N Ary Tree Preorder Traversal](https://github.com/sometastycake/leetcode/blob/master/tree/easy/n-ary-tree-preorder-traversal.py)
@@ -20,7 +21,6 @@
  - [Invert Binary Tree](https://github.com/sometastycake/leetcode/blob/master/tree/easy/invert-binary-tree.py)
  - [Search In A Binary Search Tree](https://github.com/sometastycake/leetcode/blob/master/tree/easy/search-in-a-binary-search-tree.py)
  - [Path Sum](https://github.com/sometastycake/leetcode/blob/master/tree/easy/path-sum.py)
- - [Binary Tree Inorder Traversal](https://github.com/sometastycake/leetcode/blob/master/tree/easy/binary-tree-inorder-traversal.py)
 
 
 ### Medium
@@ -54,7 +54,6 @@
  - [Design Underground System](https://github.com/sometastycake/leetcode/blob/master/design/medium/design-underground-system.py)
  - [Design Browser History](https://github.com/sometastycake/leetcode/blob/master/design/medium/design-browser-history.py)
  - [Design Front Middle Back Queue](https://github.com/sometastycake/leetcode/blob/master/design/medium/design-front-middle-back-queue.py)
- - [Problems](https://github.com/sometastycake/leetcode/blob/master/design/medium/problems.py)
  - [Simple Bank System](https://github.com/sometastycake/leetcode/blob/master/design/medium/simple-bank-system.py)
  - [Lru Cache](https://github.com/sometastycake/leetcode/blob/master/design/medium/lru-cache.py)
  - [Design A Stack With Increment Operation](https://github.com/sometastycake/leetcode/blob/master/design/medium/design-a-stack-with-increment-operation.py)
@@ -74,7 +73,6 @@
  - [Positions Of Large Groups](https://github.com/sometastycake/leetcode/blob/master/strings/easy/positions-of-large-groups.py)
  - [Sort The People](https://github.com/sometastycake/leetcode/blob/master/strings/easy/sort-the-people.py)
  - [Uncommon Words From Two Sentences](https://github.com/sometastycake/leetcode/blob/master/strings/easy/uncommon-words-from-two-sentences.py)
- - [Description](https://github.com/sometastycake/leetcode/blob/master/strings/easy/description.py)
  - [Check If Numbers Are Ascending In A Sentence](https://github.com/sometastycake/leetcode/blob/master/strings/easy/check-if-numbers-are-ascending-in-a-sentence.py)
  - [Reverse Only Letters](https://github.com/sometastycake/leetcode/blob/master/strings/easy/reverse-only-letters.py)
  - [Substrings Of Size Three With Distinct Characters](https://github.com/sometastycake/leetcode/blob/master/strings/easy/substrings-of-size-three-with-distinct-characters.py)
@@ -95,7 +93,6 @@
  - [Destination City](https://github.com/sometastycake/leetcode/blob/master/strings/easy/destination-city.py)
  - [Maximum Repeating Substring](https://github.com/sometastycake/leetcode/blob/master/strings/easy/maximum-repeating-substring.py)
  - [Student Attendance Record I](https://github.com/sometastycake/leetcode/blob/master/strings/easy/student-attendance-record-i.py)
- - [Problems](https://github.com/sometastycake/leetcode/blob/master/strings/easy/problems.py)
  - [Second Largest Digit In A String](https://github.com/sometastycake/leetcode/blob/master/strings/easy/second-largest-digit-in-a-string.py)
  - [Check If String Is A Prefix Of Array](https://github.com/sometastycake/leetcode/blob/master/strings/easy/check-if-string-is-a-prefix-of-array.py)
  - [Calculate Digit Sum Of A String](https://github.com/sometastycake/leetcode/blob/master/strings/easy/calculate-digit-sum-of-a-string.py)
@@ -314,7 +311,6 @@
  - [Count Operations To Obtain Zero](https://github.com/sometastycake/leetcode/blob/master/maths/easy/count-operations-to-obtain-zero.py)
  - [Number Of Common Factors](https://github.com/sometastycake/leetcode/blob/master/maths/easy/number-of-common-factors.py)
  - [Perfect Number](https://github.com/sometastycake/leetcode/blob/master/maths/easy/perfect-number.py)
- - [910178183](https://github.com/sometastycake/leetcode/blob/master/maths/easy/910178183.py)
  - [Self Dividing Numbers](https://github.com/sometastycake/leetcode/blob/master/maths/easy/self-dividing-numbers.py)
  - [A Number After A Double Reversal](https://github.com/sometastycake/leetcode/blob/master/maths/easy/a-number-after-a-double-reversal.py)
  - [Largest Triangle Area](https://github.com/sometastycake/leetcode/blob/master/maths/easy/largest-triangle-area.py)
@@ -374,7 +370,6 @@
  - [Toeplitz Matrix](https://github.com/sometastycake/leetcode/blob/master/matrix/easy/toeplitz-matrix.py)
  - [The K Weakest Rows In A Matrix](https://github.com/sometastycake/leetcode/blob/master/matrix/easy/the-k-weakest-rows-in-a-matrix.py)
  - [Largest Local Values In A Matrix](https://github.com/sometastycake/leetcode/blob/master/matrix/easy/largest-local-values-in-a-matrix.py)
- - [Problems](https://github.com/sometastycake/leetcode/blob/master/matrix/easy/problems.py)
 
 
 ### Medium
@@ -389,5 +384,4 @@
  - [Spiral Matrix Ii](https://github.com/sometastycake/leetcode/blob/master/matrix/medium/spiral-matrix-ii.py)
  - [Spiral Matrix](https://github.com/sometastycake/leetcode/blob/master/matrix/medium/spiral-matrix.py)
  - [Sort The Students By Their Kth Score](https://github.com/sometastycake/leetcode/blob/master/matrix/medium/sort-the-students-by-their-kth-score.py)
- - [Problems](https://github.com/sometastycake/leetcode/blob/master/matrix/medium/problems.py)
  - [Word Search](https://github.com/sometastycake/leetcode/blob/master/matrix/medium/word-search.py)
